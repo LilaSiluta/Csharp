@@ -1,0 +1,6 @@
+}Oceny produtu z podziałem na poszczególne przedziały: 
+ --> (0-1):3
+ --> (1-2):14
+ --> (2-3):4
+ --> (3-4):26
+ --> (4-5):33
