@@ -1,0 +1,13 @@
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\bin\Debug\netcoreapp3.1\Projekt PP.exe
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\bin\Debug\netcoreapp3.1\Projekt PP.deps.json
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\bin\Debug\netcoreapp3.1\Projekt PP.runtimeconfig.json
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\bin\Debug\netcoreapp3.1\Projekt PP.runtimeconfig.dev.json
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\bin\Debug\netcoreapp3.1\Projekt PP.dll
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\bin\Debug\netcoreapp3.1\Projekt PP.pdb
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\obj\Debug\netcoreapp3.1\Projekt PP.csprojAssemblyReference.cache
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\obj\Debug\netcoreapp3.1\Projekt PP.AssemblyInfoInputs.cache
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\obj\Debug\netcoreapp3.1\Projekt PP.AssemblyInfo.cs
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\obj\Debug\netcoreapp3.1\Projekt PP.csproj.CoreCompileInputs.cache
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\obj\Debug\netcoreapp3.1\Projekt PP.dll
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\obj\Debug\netcoreapp3.1\Projekt PP.pdb
+C:\Users\lsilu\Desktop\STUDIA - UMG\PP\PROJEKT\Projekt PP\obj\Debug\netcoreapp3.1\Projekt PP.genruntimeconfig.cache
